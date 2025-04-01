@@ -19,29 +19,24 @@ Experience the live demo here: [Shoez Landing Page](https://tononjacopo.com/shoe
 
 ## 📸 Screenshots
 
-### 🔹 Above the Fold
+### 🔹 Homepage
 
-<img src="https://github.com/tononjacopo/shoez/blob/main/img/above_the_fold.png" width="700">
+<img src="https://github.com/tononjacopo/shoez/blob/f759e5ae9b4e6a9c73177149e3b5b779ba2d3a66/screenshot/first.png" width="700">
 
 *Main screen of the landing page.*
 
-### 🔹 Under the Fold
+### 🔹 Second Sneaker
 
-<img src="https://github.com/tononjacopo/shoez/blob/main/img/under_the_fold.png" width="700">
+<img src="https://github.com/tononjacopo/shoez/blob/f759e5ae9b4e6a9c73177149e3b5b779ba2d3a66/screenshot/second.png" width="700">
 
 *Scroll animation showcasing featured products.*
 
-### 🔹 Product Showcase
+### 🔹 Third coice
 
-<img src="https://github.com/tononjacopo/shoez/blob/main/img/product_showcase.png" width="700">
+<img src="https://github.com/tononjacopo/shoez/blob/f759e5ae9b4e6a9c73177149e3b5b779ba2d3a66/screenshot/third.png" width="700">
 
 *Detailed view of the latest sneaker collection.*
 
-### 🔹 Footer
-
-<img src="https://github.com/tononjacopo/shoez/blob/main/img/footer.png" width="700">
-
-*Footer section with navigation and contact information.*
 
 ## 🗁 Project Structure
 
